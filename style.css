@@ -1,0 +1,17 @@
+.hello{
+    width: 700px;
+    height: 650px;
+    border-color: black;
+    border: 2px solid ;
+    margin-left:400px ;
+}
+.hey{
+    /* width: 140px; */
+    /* height: 120px; */
+    padding-left: 40%;
+
+}
+.bt{
+    padding-left: 30px;
+    font-size: 12px;
+}
