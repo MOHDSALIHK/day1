@@ -1,12 +1,8 @@
-import React from 'react'
-
-import Carousel from 'react-bootstrap/Carousel'
-
-
-import Container from 'react-bootstrap/Container';
+import React from 'react';
+import Carousel from 'react-bootstrap/Carousel';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import { Casual } from '../data/Casual'
+import { Casual } from '../data/Casual';
 import { Cardhl } from '../data/Cardhl'
 
 import Card from 'react-bootstrap/Card';

@@ -40,6 +40,8 @@ export default function Formal1() {
                           </Card.Text>
                           <Card.Text > size {data.size}
                           </Card.Text>
+                          <Card.Text > <button style={{height:"30px",marginLeft:'70%'}}>Add to cart</button>
+                          </Card.Text>
                         </Card.Body>
                       </Card>
 
